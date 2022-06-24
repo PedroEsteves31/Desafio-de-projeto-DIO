@@ -1,0 +1,160 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #1E192C;
+}
+
+header{
+    height: auto;
+    min-width: 350px;
+    background-color: #151515;
+    margin-bottom: 15px;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;   
+    list-style: none;
+}
+
+.container-dio{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.group-home{
+    display: flex;
+    margin-left: auto;
+    width: auto;
+    justify-content: flex-end;
+}
+
+.group-home li a{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.img-logo{
+    margin-left: 20px;
+    align-items: center;
+}
+
+.img-logo a img{
+    height: 40px;
+    width: 100px;
+}
+
+.loggin-registration{
+    display: flex;
+    margin-right: 20px;
+    min-width: auto;
+}
+
+.loggin-registration div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.loggin-registration div a{
+    color: white;
+    text-decoration: none;
+}
+
+.loggin-button{
+    background-color: #E4105D;
+    border-radius: 20px;
+    width: 120px;
+    height: 23px;
+}
+
+.lang-selector{
+    display: flex;
+    margin-right: 20px;
+    flex-direction: row;
+}
+
+.lang-selector a img{
+    width: 35px;
+    height: 35px;
+    margin-left: 10px;
+    border-radius: 50px;
+}
+
+.home-page{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-around;
+    justify-content: center;
+    flex-direction: row;
+    margin-bottom: 100px;
+}
+
+.apresentação{
+    display: flex;
+    font-size: 22px;
+    padding: 20px;
+    margin-top: 50px;
+    flex-direction: column;
+    width: 40%;
+    min-width: 300px;
+}
+
+.apresentação h1{
+    margin-bottom: 0;
+    color: white;
+}
+
+.apresentação span{
+    color: #E4105D;
+}
+
+.apresentação p{
+    color: white;
+    margin-bottom: 30px;
+}
+
+.apresentação div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    width: 230px;
+    background-color: #1E192C;
+    border: 2px solid #E4105D;
+    border-radius: 35px;
+}
+
+.apresentação a{
+    color: white;
+    width: 200px;
+    background-color: #E4105D;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.banner-dio{
+    width: 50%;
+    min-width: 350px;
+}
+
+.banner-dio img{
+    width: 100%;
+    min-width: 350px;
+}
+
+.icons-dio{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.icons-dio img{
+    width: 300px;
+}
