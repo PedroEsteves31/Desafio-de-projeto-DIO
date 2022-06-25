@@ -2,4 +2,4 @@
 
 Desafio de projeto: Recriando a página inicial do Instagram.
 
-Obs: Decidi recriar a página inicial da DIO, utuizando os mesmos fundamentos da pproposta original.
+Obs: Decidi recriar a página inicial da DIO, utuizando os mesmos fundamentos da proposta original.
