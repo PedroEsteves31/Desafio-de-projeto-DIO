@@ -68,10 +68,15 @@ ul{
 }
 
 .loggin-button{
-    background-color: #E4105D;
+    background-color: #565656;
     border-radius: 20px;
     width: 120px;
     height: 23px;
+	transition: all 0.2s linear;
+}
+
+.loggin-button:hover{
+	background-color: #E4105D;
 }
 
 .lang-selector{
